@@ -57,19 +57,19 @@ Main Classes
 - Focus: Summarizes actions and evaluates data quality.
 
 # UML Design
-┌─────────────────────────────┐
+-------------------------------
 │        DataInspector        │
-├─────────────────────────────┤
+------------------------------┤
 │ - _data                     │
 │ - _issues                   │
-├─────────────────────────────┤
+-------------------------------
 │ + __init__(dataframe)       │
 │ + inspect()                 │  
 │ + detect_missing()          │
 │ + detect_duplicates()       │
 │ + detect_outliers()         │
 │ + get_summary()             │
-└──────────────┬──────────────┘
+-------------------------------
                │
           inherits
                │
