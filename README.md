@@ -18,3 +18,17 @@ Build and Publish a Python Library for Data Science
 | **Magtrayo, Harold Hope**  | **Documentation & Testing Officer** | Writes documentation (`README.md`, docstrings), conducts testing of features, and assists in creating the demo notebook.                                      |
 | **Padillo, Reymart** | **Design & Research Analyst**       | Creates UML/class diagrams, researches data cleaning techniques, and helps design the logic for inspections and reports.                                      |
 
+# PROJECT OVERVIEW: DataMedic
+Concept Summary
+
+DataMedic is a Python library that acts as a data health assistant — it inspects, diagnoses, and treats common data quality issues such as missing values, duplicates, and outliers.
+
+Instead of directly applying cleaning functions, DataMedic first analyzes the dataset’s condition, gives recommendations, and then applies fixes with the user’s confirmation.
+
+It aims to make data preparation easier for beginners in data science by offering:
+
+- automatic detection of issues,
+- simple function calls, and
+- clear, human-readable reports.
+
+
