@@ -7,5 +7,6 @@ In Week 1, our team built the foundation for DataMedic, a Python software that i
 This week, our group developed the concept for our library and designed it utilizing Object-Oriented Programming (OOP) principles. We designed our process for the following stages of development, created a UML diagram to visualize the class hierarchy, and set up a GitHub repository for collaboration. Members were assigned responsibilities, and We looked into current data cleaning methods for suggestions and references.
 
 # Narrative of Activities
-# Challenges Encountered
+# Challenges Encountere
+Our group struggled for days, trying to figure out how to start our OOP Final Project. We did not know what type of structure should be followed by the program, nor how to correctly apply the concepts of Object-Oriented Programming. It also took time for us to organize our ideas, understand the class hierarchy, and figure out how to begin coding.
 # Reflection and Learning
