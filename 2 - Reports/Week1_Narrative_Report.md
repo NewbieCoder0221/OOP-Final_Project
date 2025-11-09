@@ -9,7 +9,7 @@ This week, our group developed the concept for our library and designed it utili
 # Narrative of Activities
 This week, our group worked on our project called DataMedic, which focuses on data cleaning and management. We applied OOP concepts to design the system structure and created a UML diagram to show the class relationships. We also set up a GitHub repository for collaboration and assigned each member specific tasks. Our group researched existing data cleaning methods for inspiration and planned the next stages of our development process.
 
-# Challenges Encountere
+# Challenges Encountered
 Our group struggled for days, trying to figure out how to start our OOP Final Project. We did not know what type of structure should be followed by the program, nor how to correctly apply the concepts of Object-Oriented Programming. It also took time for us to organize our ideas, understand the class hierarchy, and figure out how to begin coding.
 
 # Reflection and Learning
