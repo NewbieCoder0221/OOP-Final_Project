@@ -5,7 +5,7 @@ class DataGetter:
     """A creative class to fetch file data by name from a fixed base path."""
     
     def __init__(self):
-        self.base_path = r"C:\Users\A S P I R E\OneDrive\Documents\Test"  # Dai ibutang a base path kung asa nato kwaon ang data file
+        self.base_path = r"C:\Users\A S P I R E\OneDrive\Documents\Test"  # Dari ibutang a base path kung asa nato kwaon ang data file
     
     def read_file(self, file_name):
         """Reads the file content."""
