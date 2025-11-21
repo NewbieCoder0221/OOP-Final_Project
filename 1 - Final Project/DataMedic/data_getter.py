@@ -16,5 +16,6 @@ class DataGetter:
         except Exception as e:
             return f"Error: {e}"
 #Usage
-file_name = input("File name: ")  # run ang code tas i enter ang name+filetype e.g., "test.txt"
-print(read_file(file_name))
+getter = DataGetter()
+file_name = input("File name: ")  # e.g., "test.txt"
+print(getter.read_file(file_name))
